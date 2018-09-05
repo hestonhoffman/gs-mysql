@@ -6,6 +6,6 @@ appVersion: "5.3.27"
 description: "This is a Helm chart used for testing. It references a mysql container."
 keywords:
   - "test"
-  - "golang"
+  - "mysql"
 sources:
   - "https://github.com/hestonhoffman/gs-mysql"
